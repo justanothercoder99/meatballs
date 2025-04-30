@@ -1,0 +1,9 @@
+functions-framework==3.*
+google-cloud-storage==3.1.0
+pandas==2.2.3
+cloud-sql-python-connector==1.18.1
+psycopg2-binary==2.9.10
+SQLAlchemy==2.0.40
+pymysql
+mlxtend==0.23.4
+pg8000==1.31.2
