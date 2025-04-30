@@ -1,3 +1,3 @@
-## Cloudy with a chance of meatballs
+## Cloudy with a chance of Meatballs
 
 ### Cloud functions for Cloudy
